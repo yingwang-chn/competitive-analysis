@@ -1,2 +1,2 @@
 # competitive-analysis
-A competitive analysis of Xianyu and Xiaohongshu
+A competitive analysis of Xianyu and Xiaohongshu.
